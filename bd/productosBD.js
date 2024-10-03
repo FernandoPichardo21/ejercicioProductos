@@ -1,4 +1,4 @@
-const { productosBD } = require("./conexion");
+const { productosBD } = require("./Conexion");
 const Producto = require("../clases/Producto");
 
 function validar(producto) {
